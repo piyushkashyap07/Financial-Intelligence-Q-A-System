@@ -1,0 +1,16 @@
+beautifulsoup4
+html5lib
+llama-index-core
+llama-index-embeddings-gemini
+llama-index-llms-gemini
+llama-index-workflow
+requests
+pandas
+streamlit
+plotly
+python-dotenv
+google-generativeai
+pinecone
+tqdm
+sentence-transformers
+pydantic-settings
